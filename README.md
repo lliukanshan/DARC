@@ -4,8 +4,7 @@ Welcome to the official repository for the Decentralized Autonomous Regulated Co
 that aims to create a decentralized autonomous company that is regulated by a plugin system based on commercial laws.
 The project is currently in the early stages of development and is not yet ready for production use.
 
-English | [简体中文](./README_cn.md) | [日本語](./README_ja.md)
-
+English | [简体中文](./README_cn.md) |
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=project-darc/darc&type=Date)](https://star-history.com/#project-darc/darc&Date)
